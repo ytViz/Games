@@ -1727,12 +1727,7 @@
 		"root": "soldier-legend",
 		"file": "index.html",
 		"img": "images/splash.jpeg"
-	},
-	{
-		"name": "Solitare",
-		"root": "solitaire",
-		"file": "index.html",
-		"img": "screen-shot.png"
+	
 	},
 	{
 		"name": "Sort The Court",
